@@ -20,6 +20,7 @@
    }
    
    //echo "Connected successfully";
+   //this is so coool
    
    $value = $_POST['input1'];
    $value2 = $_POST['input2'];
