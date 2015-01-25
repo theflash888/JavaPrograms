@@ -6,7 +6,7 @@ just for fun :D
 
 Feel free to use these solutions and to learn, collaborate and experiment!
 
-Stay tuned for some up coming project I will be putting very soon!
+Stay tuned for some up coming projects I will be putting very soon!
 
 Happy coding!!
 
