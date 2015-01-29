@@ -1,0 +1,32 @@
+/*
+This program allows user to input student grades into an array called grades and spits it back out (a check that its there)
+*/
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class Grades_Input {
+	
+	public static void main(String[] args)
+	{
+		int number_of_students = 3;
+		int[] grades = new int[number_of_students];
+		
+		Scanner in = new Scanner(System.in);
+		
+		for(int i = 0; i < number_of_students; i++)
+		{
+			System.out.print("Enter a grade: ");
+			int input = in.nextInt();
+			
+			grades[i] = input;
+		}
+		
+		for(int j = 0; j < number_of_students; j++)
+		{
+			System.out.println(grades[j]);
+		}
+		
+	}
+
+}
